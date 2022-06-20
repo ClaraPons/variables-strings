@@ -38,4 +38,5 @@
 //console.log(template)
 
 // BONUS
-
+const changed = "Bonjour"
+console.log(changed.replaceAll("o","a"))
