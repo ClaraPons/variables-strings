@@ -1,9 +1,11 @@
 // 01 - Hello World
-//console.log("Hello World")
+// const sentence = "Hello World"
+//console.log(sentence)
 
 // 02 - String
-//const sentence = "My name is Clara"
-//console.log(sentence)
+//const sentence = "My name is"
+//const firstName = "Clara"
+//console.log(`${sentence} ${firstName}`)
 
 // 03 - Concaténation
 //const name = "Clara"
